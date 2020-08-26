@@ -27,7 +27,7 @@ i8 = {name: "精霊の盾", type: "盾", perf: 8, pri: 2000}
 
 items1 = [i1,i2,i3,i4,i5,i6]
 
-puts "テスト編集"
+puts "テスト編集2"
 puts "あなたのあなたの名前を教えて下さい(かな入力にして下さい)"
 
 you[:name] = gets.chomp
